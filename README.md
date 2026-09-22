@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-- ☁️ Cloud Computing enthusiast, currently exploring **Microsoft Azure & AI**
+
 - 📚 Computer Engineering student, sharpening my skills in **C++, Python & SQL**
 - 🛠️ I build full-stack web apps — from AI-powered learning platforms to blockchain-secured finance tools
 - 🌱 Currently diving deeper into **AI agents, RAG pipelines, and cloud-native architectures**
