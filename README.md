@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-
+- ☁️ Cloud Computing enthusiast, currently exploring **Microsoft Azure & AI**
 - 📚 Computer Engineering student, sharpening my skills in **C++, Python & SQL**
 - 🛠️ I build full-stack web apps — from AI-powered learning platforms to blockchain-secured finance tools
 - 🌱 Currently diving deeper into **AI agents, RAG pipelines, and cloud-native architectures**
@@ -99,7 +99,20 @@ A clean, interactive browser implementation of the classic game.
 </tr>
 </table>
 
+<br/>
 
+### 📊 GitHub Stats
+
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=DarshanPatil45&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarshanPatil45&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DarshanPatil45&theme=tokyonight&hide_border=true" />
+</div>
+
+<br/>
 
 ### 🤝 Connect
 
